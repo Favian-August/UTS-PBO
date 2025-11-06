@@ -63,3 +63,5 @@ class App {
         console.log(melahirkan.use(95));  // ada aturan khusus
     }
 }
+
+new App().run();
